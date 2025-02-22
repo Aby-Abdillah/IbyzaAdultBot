@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = "mongodb+srv://ibyza:<db_password>@ibyza.4qsds.mongodb.net/?retryWrites=true&w=majority&appName=ibyza"
+DATABASE_URL = "mongodb://atlas-sql-67ba150d964c4d62e4899963-4qsds.a.query.mongodb.net/sample_mflix?ssl=true&authSource=admin"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
