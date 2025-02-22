@@ -1,5 +1,5 @@
 # REQUIRED CONFIG
-BOT_TOKEN = "7659384088:AAEWCnLCrhDP99pu6oenY6HiSNqy5Hc-gkA"
+BOT_TOKEN = "7659384088:AAG-U_LMOmSdL-ecLyANbccNwbixdvfhS6Q"
 OWNER_ID = 7146954165
 TELEGRAM_API = 20342217
 TELEGRAM_HASH = "5d01e69a6f8f0887ee653ef727bc5a4e"
@@ -7,9 +7,9 @@ TELEGRAM_HASH = "5d01e69a6f8f0887ee653ef727bc5a4e"
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
-AUTHORIZED_CHATS = "-1002465323061, -1002340999470"
+AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = "mongodb+srv://cjdwcjdw709:<db_password>@cluster0.yhixv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+DATABASE_URL = "mongodb+srv://cjdwcjdw709:<*yDQic.u.!$btw8>@cluster0.yhixv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -28,10 +28,10 @@ IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
 # Rclone
-RCLONE_PATH = "meg:/mirror"
+RCLONE_PATH = ""
 RCLONE_FLAGS = ""
-RCLONE_SERVE_URL = "htttp://209.23.9.83.8080"
-RCLONE_SERVE_PORT = 8080
+RCLONE_SERVE_URL = ""
+RCLONE_SERVE_PORT = 0
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
@@ -69,11 +69,11 @@ MEDIA_GROUP = False
 USER_TRANSMISSION = False
 HYBRID_LEECH = False
 LEECH_FILENAME_PREFIX = ""
-LEECH_DUMP_CHAT = "-1002301829206, -1002273530919"
+LEECH_DUMP_CHAT = ""
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = "htttp://209.23.9.83"
+BASE_URL = ""
 BASE_URL_PORT = 0
 WEB_PINCODE = False
 # Queueing system
