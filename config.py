@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = "mongodb://ibyza:<db_password>@undefined/?replicaSet=atlas-j0bieb-shard-0&ssl=true&authSource=admin"
+DATABASE_URL = "mongodb+srv://ibyza:<db_password>@ibyza.4qsds.mongodb.net/?retryWrites=true&w=majority&appName=ibyza"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
