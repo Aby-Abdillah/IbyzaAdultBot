@@ -9,7 +9,7 @@ USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = "-1002465323061, -1002340999470"
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://cjdwcjdw709:<db_password>@cluster0.yhixv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
 STATUS_UPDATE_INTERVAL = 15
@@ -28,10 +28,10 @@ IS_TEAM_DRIVE = False
 STOP_DUPLICATE = False
 INDEX_URL = ""
 # Rclone
-RCLONE_PATH = ""
+RCLONE_PATH = "meg:/mirror"
 RCLONE_FLAGS = ""
-RCLONE_SERVE_URL = ""
-RCLONE_SERVE_PORT = 0
+RCLONE_SERVE_URL = "htttp://209.23.9.83.8080"
+RCLONE_SERVE_PORT = 8080
 RCLONE_SERVE_USER = ""
 RCLONE_SERVE_PASS = ""
 # JDownloader
@@ -59,7 +59,7 @@ USENET_SERVERS = [
     }
 ]
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/anasty17/mirror-leech-telegram-bot"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
@@ -73,7 +73,7 @@ LEECH_DUMP_CHAT = "-1002301829206, -1002273530919"
 THUMBNAIL_LAYOUT = ""
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
-BASE_URL = ""
+BASE_URL = "htttp://209.23.9.83"
 BASE_URL_PORT = 0
 WEB_PINCODE = False
 # Queueing system
